@@ -1,12 +1,12 @@
 /* GLOBAL */
 
 :root {
-  --bg-body: hsl(0, 0%, 8%);
+  --bg-body: #020349;
   --bg-body2: hsl(0, 0%, 14%);
-  --accent: hsl(153, 71%, 59%);
-  --text1: hsl(0, 0%, 100%);
+  --accent: hsl(179, 50%, 57%);
+  --text1: hsl(219, 75%, 55%);
   --text2: hsl(0, 0%, 85%);
-  --invalid: hsl(7, 100%, 68%);
+  --invalid: hsl(182, 100%, 68%);
   --fs-18: 1.125rem;
   --fs-88: 5.5rem;
   --fs-72: 4.5rem;
