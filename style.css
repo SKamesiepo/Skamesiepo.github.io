@@ -233,6 +233,7 @@ svg {
   translate: -50%;
   width: 174px;
   height: auto;
+  margin-bottom: 0;
 }
 
 .hero__rings {
@@ -488,6 +489,7 @@ h1 > span {
 
 .projects__contact {
   grid-column: 1 / span 2;
+  margin-bottom: 80px;
 }
 
 .projects__item {
