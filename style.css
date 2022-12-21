@@ -94,6 +94,11 @@ textarea:focus-visible {
   outline-offset: 2px;
 }
 
+a:visited { 
+  text-decoration: none; 
+  color: #0000ee;
+ }
+
 input:invalid,
 textarea:invalid {
   outline-color: var(--invalid);
